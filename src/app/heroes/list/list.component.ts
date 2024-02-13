@@ -15,6 +15,6 @@ export class ListComponent {
     this.deletedHero= this.heroNames.pop();
   }
 
-  
+
 
 }
